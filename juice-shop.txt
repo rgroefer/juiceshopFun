@@ -1,0 +1,23 @@
+russ@juice-sh.op
+rusty
+eldest sibling middle name: rusty
+
+10% off coupon: k#*AggC7sn 
+
+
+nobody@nobody.com
+nobody
+eldest sibling middle name: nobody
+
+
+id           : 1
+username     : 
+email        : admin@juice-sh.op
+role         : admin
+deluxeToken  : 
+lastLoginIp  : 
+profileImage : assets/public/images/uploads/defaultAdmin.png
+isActive     : True
+createdAt    : 8/16/2023 11:26:33PM
+updatedAt    : 8/16/2023 11:26:33PM
+deletedAt    : 
