@@ -1,3 +1,4 @@
+# Generate a new user in the shop
 $url = 'http://localhost:3000/api/Users/'
 # 4..4 | ForEach-Object {
     $email = "nobody@nobody.com"
